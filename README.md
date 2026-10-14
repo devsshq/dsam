@@ -2,6 +2,9 @@
 
 > DevSSH + Samane(سامانه, The Persian word for `System`). Pronounced: "D'Sum".
 
+> [!WARNING]
+> Development of this project is on hold until [saman](https://github.com/devsshq/saman) is complete.
+
 A declarative, reproducible definition and implementation of my personal system standard.
 
 ## DSam Principles
